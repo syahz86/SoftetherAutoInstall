@@ -14,7 +14,7 @@ rm -rf /usr/local/vpnserver
 
 # info
 clear
-echo -e "Please type \e[1;31mSoftetherAutoInstall successfully uninstall\e[0m for options"
+echo -e "\e[0;31mSoftetherAutoInstall successfully uninstall\e[0m"
 
 echo "================================================"
 
