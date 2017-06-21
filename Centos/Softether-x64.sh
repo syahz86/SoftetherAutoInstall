@@ -35,7 +35,7 @@ echo "-----------------------------------------------------"
 echo "Install finish!"
 echo "check this step to check are installer is working properly"
 echo "1. vpnserver and vpncmd is on /usr/local/vpnserver"
-echo "2. \e[1;33;44m/etc/init.d/vpnserver start\e[0m to check softether status"
+echo -e "2. \e[1;33;44m/etc/init.d/vpnserver start\e[0m to check softether status"
 echo -e "if vpnserver started, paste \e[1;33;44mcd /usr/local/vpnserver\e[0m then \e[1;33;44m./vpncmd\e[0m for VPN configuration"
 echo "------------------------------------------------------"
 exit
