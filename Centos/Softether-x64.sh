@@ -39,6 +39,6 @@ echo "Install finish!"
 echo "check this step to check are installer is working properly"
 echo "1. vpnserver and vpncmd is on /usr/local/vpnserver"
 echo "2. /etc/init.d/vpnserver start can executed"
-echo -e "if vpnserver can start, run \e[1;33;44m./vpncmd\e[0m for VPN configuration"
+echo -e "if vpnserver can start, paste \e[1;33;44mcd /usr/local/vpnserver\e[0m then run \e[1;33;44m./vpncmd\e[0m for VPN configuration"
 echo "------------------------------------------------------"
 exit
