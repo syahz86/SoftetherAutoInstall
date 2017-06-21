@@ -21,3 +21,11 @@ wget https://raw.githubusercontent.com/syahz86/SoftetherAutoInstall/master/Cento
 ```
 bash Softether-x64.sh
 ```
+# Delete Softether
+```
+https://raw.githubusercontent.com/syahz86/SoftetherAutoInstall/master/DeleteSoftether.sh
+```
+- kemudian paste nie dan tunggu sehingga selesai
+```
+bash DeleteSoftether.sh
+```
