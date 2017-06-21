@@ -10,9 +10,8 @@
 #Good Luck!
 #-------------------------------------------------------
 
-#Updating Repositories and Installing Development Packages
-yum update -y
-yum install build-essential -y
+#Install Development packages:
+yum -y groupinstall "Development Tools"
 
 #Get the Softether Packages via wget and Save it into /root
 wget http://www.softether-download.com/files/softether/v4.10-9473-beta-2014.07.12-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.10-9473-beta-2014.07.12-linux-x64-64bit.tar.gz
