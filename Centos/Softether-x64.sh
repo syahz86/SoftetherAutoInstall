@@ -1,12 +1,9 @@
 #-------------------------------------------------------
 #Softether Auto Install Script
 #For OS Centos
-#
 #Script Coded by Syahz86
 #https://github.com/syahz86/SoftetherAutoInstall
-#
 #Script Based from tutorial by lincolin.hk
-#
 #Good Luck!
 #-------------------------------------------------------
 
