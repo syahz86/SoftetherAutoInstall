@@ -172,7 +172,7 @@ fi
 echo "--------------------------------------------------------------------"
 echo "Softether VPN is installed."
 echo "Run in terminal:"
-echo "/usr/local/vpnserver/vpncmd"
+echo -e "\e[33;1m/usr/local/vpnserver/vpncmd\e[0m"
 echo "Press 1 to select \"Management of VPN Server or VPN Bridge\","
 echo "then press Enter without typing anything to connect to the "
 echo "localhost server, and again press Enter without inputting "
