@@ -5,7 +5,7 @@
 
 :phone:[JuiceSSH for Android](https://play.google.com/store/apps/details?id=com.sonelli.juicessh&hl=en)
 
-# SoftetherAutoInstall for Centos 6.7
+# SoftetherAutoInstall for Multi-OS
 ```
 wget https://raw.githubusercontent.com/syahz86/SoftetherAutoInstall/master/VPN-Autoinstall-master/softether-auto-installer.sh
 ```
