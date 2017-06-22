@@ -11,5 +11,5 @@ wget https://raw.githubusercontent.com/syahz86/SoftetherAutoInstall/master/VPN-A
 ```
 - kemudian paste nie dan tunggu sehingga selesai
 ```
-softether-auto-installer.sh
+bash softether-auto-installer.sh
 ```
